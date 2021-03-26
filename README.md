@@ -3,4 +3,5 @@ Predecir antes de ejecutar el programa, cuál será su salida
 Escribir tu predicción y fundamento de cada valor en éste
 archivo
 
-Respuesta:
+Respuesta: 
+Su salida sera x ya que al crear un metodo nuevo, y tener de parametro x, y, z... a que estaba en la clase main pasa a x en el metodo creado y lo mismo pasa con b que pasa como y , y c pasa como z
